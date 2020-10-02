@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Mohasin K Rahumathulla and I'm a CS undergrad student currently studying at Noorul Islam Centre for Higher Education.
+
+#### 🌱 I’m currently learning 
+- Intermediate to Advanced level JAVA
+- Datastructures and Algorithms
+
+#### :mailbox: Get in touch with me via : 
+![Twitter](https://img.shields.io/twitter/follow/ediblehazard?style=social)<br>
+[![Instagram Badge](https://img.shields.io/badge/-poison.smoke-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/poison.smoke/)](https://www.instagram.com/poison.smoke/)
+
+#### Follow my GitHub Profile:
+- ![](https://img.shields.io/github/followers/MohasinKR?style=social)
+
+[![Mohasin's github stats](https://github-readme-stats.vercel.app/api?username=MohasinKR)](https://github.com/anuraghazra/github-readme-stats)
