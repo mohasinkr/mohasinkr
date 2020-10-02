@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mohasin K Rahumathulla and I'm a CS undergrad student currently studying at Noorul Islam Centre for Higher Education.
+My name is Mohasin K Rahumathulla and I'm persuing my bachelors at Noorul Islam Centre for Higher Education (NICHE) majoring in Computer Science Engineering with Cloud Computing.
 
 #### 🌱 I’m currently learning 
 - Intermediate to Advanced level JAVA
