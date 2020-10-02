@@ -26,6 +26,6 @@ My name is Mohasin K Rahumathulla and I'm persuing my bachelors at Noorul Islam 
 [![Instagram Badge](https://img.shields.io/badge/-poison.smoke-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/poison.smoke/)](https://www.instagram.com/poison.smoke/)
 
 #### Follow my GitHub Profile:
-- ![](https://img.shields.io/github/followers/MohasinKR?style=social)
+![](https://img.shields.io/github/followers/MohasinKR?style=social)
 
 [![Mohasin's github stats](https://github-readme-stats.vercel.app/api?username=MohasinKR)](https://github.com/anuraghazra/github-readme-stats)
