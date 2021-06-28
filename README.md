@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 My name is Mohasin K Rahumathulla and I'm an udergrad student at Noorul Islam Centre for Higher Education (NICHE) majoring in Computer Science Engineering with Cloud Computing.
 My love for computers and technology started when I was 10 years old, and after all these years I still have the same excitement to learn something new about technology!
-#### 🌱 I’m currently working on 
+#### 🌱 I’m currently learning : 
 - Intermediate to Advance level JAVA
 - Datastructures and Algorithms
 
-#### Planning to get started on :
+#### 📝 Planning to get started on :
 - Learning Web Development (HTML,CSS and Javascript)
 - Making react.js apps
 
