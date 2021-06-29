@@ -32,5 +32,4 @@ My love for computers and technology started when I was 10 years old, and after 
 #### Follow my GitHub Profile:
 ![](https://img.shields.io/github/followers/MohasinKR?style=social)
 
-[![Mohasin's github stats](https://github-readme-stats.vercel.app/api?username=MohasinKR&theme=tokyonight&count_private=true)
-)](https://github.com/mohasinkr)
+[![Mohasin's github stats](https://github-readme-stats.vercel.app/api?username=MohasinKR&theme=tokyonight&count_private=true))](https://github.com/mohasinkr)
