@@ -16,18 +16,17 @@ Here are some ideas to get you started:
 -->
 
 My name is Mohasin K Rahumathulla and I'm an udergrad student at Noorul Islam Centre for Higher Education (NICHE) majoring in Computer Science Engineering with Cloud Computing.
-My love for computers and technology started when I was 10 years old, and after all these years I still have the same excitement to learn something new about technology!
+My love for computers and technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
 #### 🌱 I’m currently learning : 
 - Intermediate to Advance level JAVA
 - Datastructures and Algorithms
 
 #### 📝 Planning to get started on :
 - Learning Web Development (HTML,CSS and Javascript)
-- Making react.js apps
+- Blockchain development
 
 #### :mailbox: Get in touch with me via : 
 ![Twitter](https://img.shields.io/twitter/follow/ediblehazard?style=social)<br>
-[![Instagram Badge](https://img.shields.io/badge/-poison.smoke-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/poison.smoke/)](https://www.instagram.com/poison.smoke/)
 
 #### Follow my GitHub Profile:
 ![](https://img.shields.io/github/followers/MohasinKR?style=social)
