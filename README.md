@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **MohasinKR/MohasinKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 My name is Mohasin K Rahumathulla and I'm an udergrad student at Noorul Islam Centre for Higher Education (NICHE) majoring in Computer Science Engineering with Cloud Computing.
 My love for computers and technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
 
-## SKILLS AND ABILITIES
-***
-\- Proficient in Java, C, Javascript, HTML and CSS.
+## Skills & Abilities
+\- Proficient in Java, C, Javascript, HTML and CSS.  
 \- Experienced in Blogging and Technical Content writing.
 
 #### 🌱 I’m currently learning : 
@@ -31,7 +30,7 @@ My love for computers and technology started when I was a little kid, and after 
 - Learning the Javascript MERN stack
 
 #### :mailbox: Get in touch with me via : 
-![Twitter](https://img.shields.io/twitter/follow/ediblehazard?style=social)<br>
+![Twitter](https://img.shields.io/twitter/follow/mohasinkr?style=social)<br>
 
 #### Follow my GitHub Profile:
 ![](https://img.shields.io/github/followers/MohasinKR?style=social)
