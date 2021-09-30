@@ -17,12 +17,18 @@ Here are some ideas to get you started:
 
 My name is Mohasin K Rahumathulla and I'm an udergrad student at Noorul Islam Centre for Higher Education (NICHE) majoring in Computer Science Engineering with Cloud Computing.
 My love for computers and technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
+
+## SKILLS AND ABILITIES
+***
+\- Proficient in Java, C, Javascript, HTML and CSS.
+\- Experienced in Blogging and Technical Content writing.
+
 #### 🌱 I’m currently learning : 
 - Web Development(HTML,CSS and Javascript)
 - DataStructures and Algorithms
 
 #### 📝 Planning to get started on :
-- Learning Javascript and its related frameworks
+- Learning the Javascript MERN stack
 
 #### :mailbox: Get in touch with me via : 
 ![Twitter](https://img.shields.io/twitter/follow/ediblehazard?style=social)<br>
