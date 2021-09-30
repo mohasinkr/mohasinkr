@@ -29,11 +29,11 @@ My love for computers and technology started when I was a little kid, and after 
 #### 📝 Planning to get started on :
 - Learning the Javascript MERN stack
 
-#### :mailbox: Get in touch with me via : 
-![Twitter](https://img.shields.io/twitter/follow/mohasinkr?style=social)<br>
+#### 📮 How to reach me : mohasin.rahumathulla@gmail.com  
 
-#### Follow my GitHub Profile:
-![](https://img.shields.io/github/followers/MohasinKR?style=social)
+#### Follow me:
+![](https://img.shields.io/github/followers/MohasinKR?style=social)  
+![Twitter](https://img.shields.io/twitter/follow/mohasinkr?style=social)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohasinkr&layout=compact)](https://github.com/mohasinkr/)
 
