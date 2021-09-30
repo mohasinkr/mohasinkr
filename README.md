@@ -19,7 +19,6 @@ My name is Mohasin K Rahumathulla and I'm an udergrad student at Noorul Islam Ce
 My love for computers and technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
 #### 🌱 I’m currently learning : 
 - Web Development(HTML,CSS and Javascript)
-- Intermediate to Advance level JAVA
 - DataStructures and Algorithms
 
 #### 📝 Planning to get started on :
