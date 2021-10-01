@@ -31,10 +31,16 @@ My love for computers and technology started when I was a little kid, and after 
 
 #### 📮 How to reach me : mohasin.rahumathulla@gmail.com  
 
+#### Technologies Used:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 #### Follow me:
 ![](https://img.shields.io/github/followers/MohasinKR?style=social)  
 ![Twitter](https://img.shields.io/twitter/follow/mohasinkr?style=social)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohasinkr&layout=compact)](https://github.com/mohasinkr/)
-
-[![Mohasin's github stats](https://github-readme-stats.vercel.app/api?username=MohasinKR&theme=tokyonight&count_private=true))](https://github.com/mohasinkr)
+![](https://github-readme-stats.vercel.app/api?username=mohasinkr)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohasinkr)
