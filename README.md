@@ -29,7 +29,7 @@ My love for computers and technology started when I was a little kid, and after 
 #### 📝 Planning to get started on :
 - Learning the Javascript MERN stack
 
-#### 📮 How to reach me : mohasin.rahumathulla@gmail.com  
+#### 📮 How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)
 
 #### Technologies Used:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
