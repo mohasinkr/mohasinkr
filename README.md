@@ -22,8 +22,9 @@ My love for computers and technology started when I was a little kid, and after 
 \- Proficient in Java, C, Javascript, HTML and CSS.  
 \- Experienced in Blogging and Technical Content writing.
 
-#### 🌱 I’m currently learning : 
+#### 🌱 I’m currently learning/working on : 
 - Web Development(HTML,CSS and Javascript)
+- JAVAFX
 - DataStructures and Algorithms
 
 #### 📝 Planning to get started on :
