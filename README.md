@@ -23,8 +23,7 @@ My love for computers and technology started when I was a little kid, and after 
 \- Experienced in Blogging and Technical Content writing.
 
 #### 🌱 I’m currently learning/working on : 
-- Web Development(HTML,CSS and Javascript)
-- JAVAFX
+- React JS
 - DataStructures and Algorithms
 
 #### 📝 Planning to get started on :
