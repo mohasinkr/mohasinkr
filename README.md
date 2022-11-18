@@ -22,12 +22,12 @@ My love for computers and technology started when I was a little kid, and after 
 \- Proficient in Java, C, Javascript, HTML and CSS.  
 \- Experienced in Blogging and Technical Content writing.
 
-#### 🌱 I’m currently learning/working on : 
+#### 🌱 I’m currently learning : 
 - React JS
 - DataStructures and Algorithms
 
-#### 📝 Planning to get started on :
-- Learning the Javascript MERN stack
+#### 📝 Future Plans :
+- Learn Backend Development (MongoDB, Express, Node Js)
 
 #### 📮 How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)
 
@@ -37,6 +37,7 @@ My love for computers and technology started when I was a little kid, and after 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Follow me:
 ![](https://img.shields.io/github/followers/MohasinKR?style=social)  
