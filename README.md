@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mohasin K Rahumathulla and I'm a Final Year B.E Computer Science Engineering student at Noorul Islam Centre for Higher Education (NICHE).
+My name is Mohasin K Rahumathulla, I'm a Final Year B.E Computer Science Engineering student at Noorul Islam Centre for Higher Education (NICHE).
 My love for computers and technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
 
 ## Skills & Abilities
