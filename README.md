@@ -44,5 +44,5 @@ My love for computers and technology started when I was a little kid, and after 
 ![](https://img.shields.io/github/followers/MohasinKR?style=social)  
 ![Twitter](https://img.shields.io/twitter/follow/mohasinkr?style=social)  
 
-![](https://github-readme-stats.vercel.app/api?username=mohasinkr)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mohasinkr) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohasinkr)
