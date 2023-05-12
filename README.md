@@ -41,8 +41,8 @@ My love for computers and technology started when I was a little kid, and after 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Follow me:
-![](https://img.shields.io/github/followers/MohasinKR?style=social)  
-![Twitter](https://img.shields.io/twitter/follow/mohasinkr?style=social)  
+[![Linkedin](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://in.linkedin.com/in/mohasinkr) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mohasinkr)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mohasinkr) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohasinkr)
