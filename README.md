@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mohasin K Rahumathulla, I'm a Final Year B.E Computer Science Engineering student at Noorul Islam Centre for Higher Education (NICHE).
-My love for computers and technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
+👨‍💻 Front-end React Developer with a passion for developing performant, user-friendly, and scalable web apps. My love for technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
 
 ## Skills & Abilities
-\- Proficient in Java, C, Javascript, HTML and CSS.  
+\- Proficient in Java, C, Javascript, HTML, and CSS.  
 \- Experienced in Blogging and Technical Content writing.
 
 #### 🌱 I’m currently learning : 
-- React JS
+- Backend Development using Node JS
 - DataStructures and Algorithms
 
 #### 📝 Future Plans :
