@@ -51,7 +51,7 @@ I'm Mohasin, a Front-end React Developer with a passion for developing performan
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Follow me:
-[![Linkedin](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://in.linkedin.com/in/mohasinkr) 
+[![Linkedin](https://img.shields.io/badge/mohasinkr-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://www.linkedin.com/in/mohasinkr/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mohasinkr)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mohasinkr) -->
