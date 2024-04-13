@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 I'm Mohasin, a Front-end React Developer with a passion for developing performant, user-friendly, and scalable web apps. My love for technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
 
 ## Skills & Abilities
-\- Proficient in Java, C, Javascript, HTML, and CSS.  
+\- Proficient in Javascript, JAVA, C, Python
+
 \- Experienced in Blogging and Technical Content writing.
 
-#### 🌱 I’m currently learning : 
-- Backend Development using Node JS
-- DataStructures and Algorithms
+💻 I'm currenty working on Web app development using Next JS 
 
-#### 📝 Future Plans :
-- Learn Backend Development (MongoDB, Express, Node Js)
+🌱 I’m currently learning Backend Development using Node JS
+
+#### 📝 Future Plans:
+- Devops (Cloud deployment, CI/CD)
 
 #### 📮 How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)
 
