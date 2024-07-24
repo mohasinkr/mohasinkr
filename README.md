@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **MohasinKR/MohasinKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mohasin, a Front-end React Developer with a passion for developing performant, user-friendly, and scalable web applications. My love for technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
+I'm Mohasin, a Front-end React Developer who loves building fast, user-friendly, and scalable web apps. My tech journey started when I was a kid, and I'm still just as excited to dive into new tech and learn something cool every day. Open source = ❤️
 
 ## Skills & Abilities
 \- Proficient in Javascript, JAVA, C, Python
