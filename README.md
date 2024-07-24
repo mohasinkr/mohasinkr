@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mohasin, a Front-end React Developer with a passion for developing performant, user-friendly, and scalable web apps. My love for technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
+I'm Mohasin, a Front-end React Developer with a passion for developing performant, user-friendly, and scalable web applications. My love for technology started when I was a little kid, and after all these years I still have the same excitement to learn something new about technology! Open source = ❤
 
 ## Skills & Abilities
 \- Proficient in Javascript, JAVA, C, Python
