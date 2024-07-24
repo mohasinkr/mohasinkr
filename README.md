@@ -24,7 +24,7 @@ I'm Mohasin, a Front-end React Developer who loves building fast, user-friendly,
 
 💻 I'm currenty working on Web app development using Next JS 
 
-🌱 I’m currently learning Backend Development using Node JS
+🌱 I’m currently learning Backend Development using Node
 
 #### 📝 Future Plans:
 - Devops (Cloud deployment, CI/CD)
