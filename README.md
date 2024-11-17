@@ -63,7 +63,7 @@ I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendl
 
 #### Follow me:
 [![Linkedin](https://img.shields.io/badge/mohasinkr-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://www.linkedin.com/in/mohasinkr/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mohasinkr)
+[![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/mohasinkr)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mohasinkr) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohasinkr)
