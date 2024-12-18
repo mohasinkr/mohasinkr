@@ -22,10 +22,11 @@ I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendl
 
 \- Experienced in Blogging and Technical Content writing.
 
-💻 I'm currenty working on Web app development using Next.js 
+💻 I'm currenty working on full stack web app development using Next.js 
 
 #### 📝 Future Plans:
 - Devops (Cloud deployment, CI/CD)
+- Learn to build DApps using Ethereum
 
 #### 📮 How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)
 
