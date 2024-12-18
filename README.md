@@ -26,7 +26,7 @@ I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendl
 
 #### 📝 Future Plans:
 - Devops (Cloud deployment, CI/CD)
-- Learn to build DApps using Ethereum
+- Build DApps using Ethereum
 
 #### 📮 How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)
 
