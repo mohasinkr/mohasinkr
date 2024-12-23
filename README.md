@@ -61,6 +61,10 @@ I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendl
 ![Handlebars.js Badge](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=for-the-badge)
 ![Webflow Badge](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=fff&style=for-the-badge)
 ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
+![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=for-the-badge)
+![Alchemy Badge](https://img.shields.io/badge/Alchemy-0C0C0E?logo=alchemy&logoColor=fff&style=for-the-badge)
+![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
+![OpenZeppelin Badge](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=for-the-badge)
 
 #### Follow me:
 [![Linkedin](https://img.shields.io/badge/mohasinkr-LinkedIn-Blue?style=for-the-badge&logo=linkedin&color=0e76a8)](https://www.linkedin.com/in/mohasinkr/) 
