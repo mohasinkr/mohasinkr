@@ -24,7 +24,7 @@ I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendl
 
 💻 I'm currenty working on full stack web app development using Next.js 
 
-#### 📝 Future Plans:
+#### 📝 Currently Learning:
 - Devops (Cloud deployment, CI/CD)
 - Build DApps using Ethereum
 
