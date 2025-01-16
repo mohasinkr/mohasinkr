@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendly, and scalable web apps. My tech journey started when I was a kid, and I'm still just as excited to dive into new tech and learn something cool every day. Open source = ❤️
+I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendly, and scalable web apps. Excited to dive head-first into new tech and learn something new every day. Open source = ❤️
 
 ## Skills & Abilities
 \- Proficient in Javascript, JAVA, C, Python
