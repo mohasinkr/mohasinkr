@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 I'm Mohasin, a Front-end Next.js Developer who loves building fast, user-friendly, and scalable web apps. Excited to dive head-first into new tech and learn something new every day. Open source = ❤️
 
-## Skills & Abilities
-\- Proficient in Javascript, JAVA, C, Python
-
-\- Experienced in Blogging and Technical Content writing.
-
-💻 I'm currenty working on full stack web app development using Next.js 
-
 #### 📝 Currently Learning:
 - Devops (Cloud deployment, CI/CD)
 - Build DApps using Ethereum
