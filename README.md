@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mohasin, a Full-stack Developer who loves building fast, user-friendly, and scalable web apps. Excited to dive head-first into new tech and learn something new every day. Open source = ❤️
+I'm Mohasin, a frontend-focused Full-stack Developer who loves building performant and user-friendly web apps. Excited to dive head-first into new tech and learn something new every day. Open source = ❤️
 
 #### 📝 Currently Learning:
-- Devops (Cloud deployment, CI/CD)
-- Build DApps using Ethereum
+- Devops
 
 #### 📮 How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)
 
