@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm Mohasin, a full stack developer who loves building performant and user-friendly web apps. Excited to dive head-first into new tech and learn something new every day. Open source = ❤️
 
-#### 📝 Currently Learning:
-- Devops
+#### 📝 Currently Exploring:
+- Backend and Infrastructure
 
 #### 📮 How to reach me : [Email](mailto:mohasin.rahumathulla@gmail.com)
 
